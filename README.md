@@ -3,7 +3,9 @@
 [demo演示页面](https://bowennan.github.io/numberKeypad/dist/)
 
 > a plugin for number plate
+
 > usage
+
 |属性及事件名称 | 说明 | 默认值 | 备注|
 | - | :- | :- | :-: |
 |actionp | 功能键 | String '.' | 除了 '.', 只能传入 '删除'， 实现删除功能，此时action属性需要传入 '清空'|
