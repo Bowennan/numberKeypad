@@ -1,5 +1,7 @@
 # numberplate
 
+[demo演示页面](https://bowennan.github.io/numberKeypad/dist/)
+
 > a plugin for number plate
 
 ## Build Setup
